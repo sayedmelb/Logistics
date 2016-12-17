@@ -27,6 +27,7 @@ namespace Logistics
             {
                 app.UseDeveloperExceptionPage();
             }
+            //Test comment
 
             app.UseDefaultFiles();
             app.UseStaticFiles();
